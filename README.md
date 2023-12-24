@@ -1,6 +1,7 @@
-# about-me
-hello my name is ram or Ryanm
-i ab a novice javascript coder ready to go to the community to help with my bots
-i have known js for 1 year and i am tired of having my bot err out 
-i hope this community can help
-thank you
+# About me
+Hello my name is RAM
+I currently are coding in PY JS Java And Html/css
+I have been coding for over a year by PY is reletively new to me.
+Feel free to contact me anytime with any inquerys
+Tamilee69@gmail.com OR Discord: Ram2
+Thank you have a great day
